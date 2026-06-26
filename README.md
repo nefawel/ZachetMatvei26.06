@@ -2,6 +2,10 @@
 
 We present small code samples that have errors in them. Initially, there is only one error and it is relatively easy to spot. As we move up challenges, there are multiple errors and subtle bugs. 
 
+### What the main function does
+
+In most challenges, the function `fizzbuzz(max_num)` is responsible for iterating through a range of numbers and printing `fizz`, `buzz`, or `fizzbuzz` for values divisible by 3, 5, or both.
+
 ### Why do this at all?
 
 By working through these examples, we hope you get better at:
